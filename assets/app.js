@@ -29,7 +29,7 @@ $(document).ready(function(){
 //save the data attr of clicked button
     var showSearch = $(this).data("show");
 //save the above data into url with api key
-    var urlAPI = 'http://api.giphy.com/v1/gifs/search?q='+ showSearch +'&api_key=dc6zaTOxFJmzC&limit=11';
+    var urlAPI = 'https://api.giphy.com/v1/gifs/search?q='+ showSearch +'&api_key=dc6zaTOxFJmzC&limit=11';
 //make ajax call 
     $.ajax({
       url: urlAPI,
