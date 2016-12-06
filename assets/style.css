@@ -1,0 +1,54 @@
+header{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 40px;
+  color: hotpink;
+}
+body{
+  background-color: darkred;
+  padding: 5px;
+  margin: 10px;
+}
+input{
+  font-family: 'Lobster', cursive;
+  background-color: hotpink;
+  color: darkred;
+  border-style: none;
+  border-radius: 10px;
+}
+#theme-buttons{
+  text-align: center;
+}
+.shows{
+  font-family: 'Lobster', cursive;
+  padding: 5px;
+  margin: 10px;
+  background-color: hotpink;
+  color: darkred;
+  border-style: none;
+  border-radius: 10px;
+}
+.image-button{
+  padding: 5px;
+  margin: 10px;
+  float:left;
+  clear: all;
+}
+#rating{
+  font-family: 'Lobster', cursive;
+  color: hotpink;
+  padding: 5px;
+  margin: 10px;
+  width:100px;
+  height: 200px;
+  float:left;
+}
+p{
+  font-family: 'Lobster', cursive;
+  color: hotpink;
+  margin: 0;
+  display: block;
+}
+img{
+  border-radius: 10px;
+}
